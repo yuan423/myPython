@@ -13,7 +13,7 @@ print(msg2)
 msg3 ="我最喜欢学Python"
 #变量使用前先进行定义
 print(msg3)
-
+#444
 #删除变量
 del msg3
 #删除的变量不可以在被使用
